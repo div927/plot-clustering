@@ -1,2 +1,2 @@
-# GitHub Codespaces Plots Clustering & Distance from the Cenroid
+# Movie Plots Clustering & Distance from the Centroid
 
